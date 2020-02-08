@@ -1,0 +1,372 @@
+[15-Aug-2016 19:09:02 America/Chicago] PHP Warning:  parse_ini_file(../Twitter.ini): failed to open stream: No such file or directory in /home1/mshwark/public_html/mshwark/login.php on line 29
+[15-Aug-2016 19:09:02 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'mshwark'@'localhost' (using password: NO) in /home1/mshwark/public_html/mshwark/secure/access.php on line 37
+[15-Aug-2016 19:09:02 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 45
+[15-Aug-2016 19:09:02 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 212
+[15-Aug-2016 19:09:12 America/Chicago] PHP Warning:  parse_ini_file(../Twitter.ini): failed to open stream: No such file or directory in /home1/mshwark/public_html/mshwark/login.php on line 29
+[15-Aug-2016 19:09:12 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'mshwark'@'localhost' (using password: NO) in /home1/mshwark/public_html/mshwark/secure/access.php on line 37
+[15-Aug-2016 19:09:12 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 45
+[15-Aug-2016 19:09:12 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 212
+[15-Aug-2016 19:10:13 America/Chicago] PHP Warning:  parse_ini_file(../Twitter.ini): failed to open stream: No such file or directory in /home1/mshwark/public_html/mshwark/login.php on line 29
+[15-Aug-2016 19:10:13 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'mshwark'@'localhost' (using password: NO) in /home1/mshwark/public_html/mshwark/secure/access.php on line 37
+[15-Aug-2016 19:10:13 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 45
+[15-Aug-2016 19:10:13 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 212
+[15-Aug-2016 19:10:15 America/Chicago] PHP Warning:  parse_ini_file(../Twitter.ini): failed to open stream: No such file or directory in /home1/mshwark/public_html/mshwark/login.php on line 29
+[15-Aug-2016 19:10:15 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'mshwark'@'localhost' (using password: NO) in /home1/mshwark/public_html/mshwark/secure/access.php on line 37
+[15-Aug-2016 19:10:15 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 45
+[15-Aug-2016 19:10:15 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 212
+[15-Aug-2016 19:10:20 America/Chicago] PHP Warning:  parse_ini_file(../Twitter.ini): failed to open stream: No such file or directory in /home1/mshwark/public_html/mshwark/login.php on line 29
+[15-Aug-2016 19:10:20 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'mshwark'@'localhost' (using password: NO) in /home1/mshwark/public_html/mshwark/secure/access.php on line 37
+[15-Aug-2016 19:10:20 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 45
+[15-Aug-2016 19:10:20 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 212
+[15-Aug-2016 19:10:25 America/Chicago] PHP Warning:  parse_ini_file(../Twitter.ini): failed to open stream: No such file or directory in /home1/mshwark/public_html/mshwark/login.php on line 29
+[15-Aug-2016 19:10:25 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'mshwark'@'localhost' (using password: NO) in /home1/mshwark/public_html/mshwark/secure/access.php on line 37
+[15-Aug-2016 19:10:25 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 45
+[15-Aug-2016 19:10:25 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 212
+[15-Aug-2016 19:11:28 America/Chicago] PHP Warning:  parse_ini_file(../Twitter.ini): failed to open stream: No such file or directory in /home1/mshwark/public_html/mshwark/login.php on line 29
+[15-Aug-2016 19:11:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'mshwark'@'localhost' (using password: NO) in /home1/mshwark/public_html/mshwark/secure/access.php on line 37
+[15-Aug-2016 19:11:28 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 45
+[15-Aug-2016 19:11:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/mshwark/public_html/mshwark/secure/access.php on line 212
+[29-Aug-2016 09:21:24 America/Chicago] PHP Fatal error:  Call to undefined method access::getDriversLocation() in /home1/mshwark/public_html/mshwark/driverslocation.php on line 45
+[29-Aug-2016 09:23:03 America/Chicago] PHP Fatal error:  Call to undefined method access::getDriversLocation() in /home1/mshwark/public_html/mshwark/driverslocation.php on line 45
+[29-Aug-2016 17:08:06 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home1/mshwark/public_html/mshwark/secure/access.php on line 353
+[01-Sep-2016 11:22:46 America/Chicago] PHP Fatal error:  Cannot access empty property in /home1/mshwark/public_html/mshwark/secure/access.php on line 400
+[01-Sep-2016 11:30:24 America/Chicago] PHP Fatal error:  Cannot access empty property in /home1/mshwark/public_html/mshwark/secure/access.php on line 395
+[01-Sep-2016 11:47:01 America/Chicago] PHP Fatal error:  Cannot access empty property in /home1/mshwark/public_html/mshwark/secure/access.php on line 388
+[01-Sep-2016 11:52:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/mshwark/public_html/mshwark/secure/access.php on line 388
+[01-Sep-2016 11:52:57 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/mshwark/public_html/mshwark/secure/access.php on line 392
+[06-Sep-2016 23:44:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:44:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:44:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:45:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:45:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:45:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:46:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:50:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:50:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:50:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:52:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:52:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:53:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:53:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:53:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 474
+[06-Sep-2016 23:56:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 471
+[06-Sep-2016 23:56:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 471
+[06-Sep-2016 23:56:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 471
+[06-Sep-2016 23:57:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 471
+[07-Sep-2016 00:01:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 471
+[07-Sep-2016 00:01:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 471
+[07-Sep-2016 00:02:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$smallestDistance' (T_VARIABLE), expecting '(' in /home1/mshwark/public_html/mshwark/secure/access.php on line 482
+[07-Sep-2016 00:02:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$smallestDistance' (T_VARIABLE), expecting '(' in /home1/mshwark/public_html/mshwark/secure/access.php on line 482
+[07-Sep-2016 00:02:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$smallestDistance' (T_VARIABLE), expecting '(' in /home1/mshwark/public_html/mshwark/secure/access.php on line 482
+[07-Sep-2016 00:03:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$smallestDistance' (T_VARIABLE), expecting '(' in /home1/mshwark/public_html/mshwark/secure/access.php on line 482
+[07-Sep-2016 00:03:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$smallestDistance' (T_VARIABLE), expecting '(' in /home1/mshwark/public_html/mshwark/secure/access.php on line 482
+[07-Sep-2016 00:04:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/mshwark/public_html/mshwark/secure/access.php on line 492
+[07-Sep-2016 09:01:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:01:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:01:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:02:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:03:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:04:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:05:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:06:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:08:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:08:56 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:09:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$last_id' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/secure/access.php on line 516
+[07-Sep-2016 09:11:03 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access.php:512
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/request.php(111): access->addDriverRequest(208, '8', 'London', '0568808087', '', 'Camery', '51.516193', '-0.133360')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 512
+[07-Sep-2016 09:11:49 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access.php:512
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/request.php(111): access->addDriverRequest(209, '4', 'Driver', '54322', '', 'Nissan', '24.711192', '46.669861')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 512
+[07-Sep-2016 09:15:18 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access.php:512
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/request.php(111): access->addDriverRequest(210, '4', 'Driver', '54322', '', 'Nissan', '24.711192', '46.669861')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 512
+[07-Sep-2016 09:18:23 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access.php:512
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/request.php(111): access->addDriverRequest(211, '4', 'Driver', '54322', 'no photo', 'Nissan', '24.711192', '46.669861')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 512
+[07-Sep-2016 09:20:07 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access.php:512
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/request.php(111): access->addDriverRequest(212, '4', 'Driver', '54322', 'no photo', 'Nissan', '24.711192', '46.669861')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 512
+[07-Sep-2016 09:20:10 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access.php:512
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/request.php(111): access->addDriverRequest(213, '4', 'Driver', '54322', 'no photo', 'Nissan', '24.711192', '46.669861')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 512
+[07-Sep-2016 15:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$cancel' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/cancelrequest.php on line 74
+[07-Sep-2016 15:16:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$cancel' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/cancelrequest.php on line 74
+[07-Sep-2016 15:16:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$cancel' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/cancelrequest.php on line 74
+[07-Sep-2016 15:16:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$cancel' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/cancelrequest.php on line 74
+[07-Sep-2016 15:18:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$cancel' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/cancelrequest.php on line 74
+[07-Sep-2016 15:18:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$cancel' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/cancelrequest.php on line 74
+[07-Sep-2016 15:18:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$cancel' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/cancelrequest.php on line 74
+[07-Sep-2016 15:22:59 America/Chicago] PHP Parse error:  syntax error, unexpected '$cancel' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/cancelrequest.php on line 74
+[07-Sep-2016 15:23:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$cancel' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/cancelrequest.php on line 74
+[07-Sep-2016 15:23:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$cancel' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/cancelrequest.php on line 74
+[11-Sep-2016 09:36:30 America/Chicago] PHP Fatal error:  Cannot redeclare access::updateUser() in /home1/mshwark/public_html/mshwark/secure/access.php on line 828
+[11-Sep-2016 09:37:08 America/Chicago] PHP Fatal error:  Cannot redeclare access::updateUser() in /home1/mshwark/public_html/mshwark/secure/access.php on line 828
+[11-Sep-2016 09:38:15 America/Chicago] PHP Fatal error:  Cannot redeclare access::updateUser() in /home1/mshwark/public_html/mshwark/secure/access.php on line 828
+[11-Sep-2016 09:38:36 America/Chicago] PHP Fatal error:  Cannot redeclare access::updateUser() in /home1/mshwark/public_html/mshwark/secure/access.php on line 828
+[11-Sep-2016 09:39:44 America/Chicago] PHP Fatal error:  Cannot redeclare access::updateUser() in /home1/mshwark/public_html/mshwark/secure/access.php on line 828
+[11-Sep-2016 09:41:30 America/Chicago] PHP Fatal error:  Cannot redeclare access::updateUser() in /home1/mshwark/public_html/mshwark/secure/access.php on line 828
+[11-Sep-2016 09:42:48 America/Chicago] PHP Fatal error:  Cannot redeclare access::updateUser() in /home1/mshwark/public_html/mshwark/secure/access.php on line 828
+[11-Sep-2016 11:29:40 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/mshwark/public_html/mshwark/secure/access.php on line 93
+[11-Sep-2016 11:31:06 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/mshwark/public_html/mshwark/secure/access.php on line 93
+[11-Sep-2016 11:31:16 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/mshwark/public_html/mshwark/secure/access.php on line 93
+[11-Sep-2016 11:31:16 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/mshwark/public_html/mshwark/secure/access.php on line 93
+[11-Sep-2016 11:31:19 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/mshwark/public_html/mshwark/secure/access.php on line 93
+[11-Sep-2016 11:31:32 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/mshwark/public_html/mshwark/secure/access.php on line 93
+[11-Sep-2016 11:37:47 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home1/mshwark/public_html/mshwark/updateaccount.php on line 13
+[11-Sep-2016 11:37:50 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home1/mshwark/public_html/mshwark/updateaccount.php on line 13
+[11-Sep-2016 11:40:04 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home1/mshwark/public_html/mshwark/updateaccount.php on line 13
+[11-Sep-2016 11:40:20 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home1/mshwark/public_html/mshwark/updateaccount.php on line 13
+[11-Sep-2016 11:40:21 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home1/mshwark/public_html/mshwark/updateaccount.php on line 13
+[11-Sep-2016 11:42:51 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home1/mshwark/public_html/mshwark/updateaccount.php on line 13
+[11-Sep-2016 11:44:57 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home1/mshwark/public_html/mshwark/secure/access.php on line 93
+[11-Sep-2016 11:46:34 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/mshwark/public_html/mshwark/secure/access.php on line 93
+[11-Sep-2016 11:46:39 America/Chicago] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/mshwark/public_html/mshwark/secure/access.php on line 93
+[12-Sep-2016 21:01:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$returnArray' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/changepassword.php on line 59
+[13-Sep-2016 10:45:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/mshwark/public_html/mshwark/mytrip.php on line 52
+[13-Sep-2016 11:03:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'open' (T_STRING) in /home1/mshwark/public_html/mshwark/secure/access.php on line 404
+[13-Sep-2016 11:03:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'open' (T_STRING) in /home1/mshwark/public_html/mshwark/secure/access.php on line 404
+[13-Sep-2016 11:04:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'open' (T_STRING) in /home1/mshwark/public_html/mshwark/secure/access.php on line 404
+[13-Sep-2016 21:02:25 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home1/mshwark/public_html/mshwark/requestlater.php on line 13
+[13-Sep-2016 21:07:02 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home1/mshwark/public_html/mshwark/requestlater.php on line 13
+[14-Sep-2016 10:21:46 America/Chicago] PHP Warning:  require(secure/access_driver.php): failed to open stream: No such file or directory in /home1/mshwark/public_html/mshwark/login_driver.php on line 38
+[14-Sep-2016 10:21:46 America/Chicago] PHP Warning:  require(secure/access_driver.php): failed to open stream: No such file or directory in /home1/mshwark/public_html/mshwark/login_driver.php on line 38
+[14-Sep-2016 10:21:46 America/Chicago] PHP Fatal error:  require(): Failed opening required 'secure/access_driver.php' (include_path='.:/opt/php56/lib/php') in /home1/mshwark/public_html/mshwark/login_driver.php on line 38
+[14-Sep-2016 15:11:13 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access_driver.php:71
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/register_driver.php(57): access->registerDriver('m8087@gmail.com', '6f320aa17a8ea92...', '\xD8\xE1\xED\xC5\xC5\xC6\xA2\xB5\x7F\x821v\xA4\xA0\r...', '7875', 'Muhammed')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 71
+[14-Sep-2016 15:13:23 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access_driver.php:71
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/register_driver.php(57): access->registerDriver('mre@gmail.com', '017e4b2d61b7bb8...', '\xEE\xA2\xED\xC6-\x1E\x8B;%\xDD\xC2\xB1\xF5\xCFw...', '05811807', 'Muhammad')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 71
+[16-Sep-2016 17:08:44 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access_driver.php:91
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/update_account_driver.php(54): access->updateAccountDriver('moh8087@gmail.c...', '0568808087', 'Muhammad Driver', '9')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 91
+[16-Sep-2016 17:09:04 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access_driver.php:91
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/update_account_driver.php(54): access->updateAccountDriver('moh8087@gmail.c...', '0568808087', 'Muhammad Driver', '9')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 91
+[16-Sep-2016 17:09:13 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access_driver.php:91
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/update_account_driver.php(54): access->updateAccountDriver('moh8087@gmail.c...', '05898989', 'MuhammadDriver', '5')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 91
+[16-Sep-2016 17:12:39 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access_driver.php:91
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/update_account_driver.php(54): access->updateAccountDriver('moh8087@gmail.c...', '0568808087', 'Muhammad Driver', '9')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 91
+[16-Sep-2016 17:12:54 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access_driver.php:91
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/update_account_driver.php(54): access->updateAccountDriver('moh8087@gmail.c...', '05898989', 'MuhammadDriver', '5')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 91
+[16-Sep-2016 17:13:30 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access_driver.php:91
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/update_account_driver.php(54): access->updateAccountDriver('ccc@gmail.com', '05898989', 'MuhammadDriver', '5')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 91
+[16-Sep-2016 17:13:46 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' in /home1/mshwark/public_html/mshwark/secure/access_driver.php:91
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/update_account_driver.php(54): access->updateAccountDriver('ccc@gmail.com', '9090', 'MuhammadDriver', '5')
+#1 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 91
+[17-Sep-2016 10:02:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/mshwark/public_html/mshwark/request.php on line 118
+[17-Sep-2016 10:03:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/mshwark/public_html/mshwark/request.php on line 118
+[17-Sep-2016 10:05:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/mshwark/public_html/mshwark/request.php on line 118
+[17-Sep-2016 10:06:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/mshwark/public_html/mshwark/request.php on line 118
+[17-Sep-2016 12:27:44 America/Chicago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 12:27:44 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php:948
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/secure/access.php(948): SoapClient->SoapClient('http://www.mobi...')
+#1 /home1/mshwark/public_html/mshwark/tripinfo.php(66): access->sendSMS('0568808087', 'Your Request nu...')
+#2 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 12:29:06 America/Chicago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 12:29:06 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php:948
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/secure/access.php(948): SoapClient->SoapClient('http://www.mobi...')
+#1 /home1/mshwark/public_html/mshwark/tripinfo.php(66): access->sendSMS('0568808087', 'Your Request nu...')
+#2 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 12:35:31 America/Chicago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 12:35:31 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php:948
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/secure/access.php(948): SoapClient->SoapClient('http://www.mobi...')
+#1 /home1/mshwark/public_html/mshwark/tripinfo.php(66): access->sendSMS('0568808087', 'Your Request nu...')
+#2 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 12:35:35 America/Chicago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 12:35:35 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php:948
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/secure/access.php(948): SoapClient->SoapClient('http://www.mobi...')
+#1 /home1/mshwark/public_html/mshwark/tripinfo.php(66): access->sendSMS('0568808087', 'Your Request nu...')
+#2 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 12:35:37 America/Chicago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 12:35:37 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php:948
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/secure/access.php(948): SoapClient->SoapClient('http://www.mobi...')
+#1 /home1/mshwark/public_html/mshwark/tripinfo.php(66): access->sendSMS('0568808087', 'Your Request nu...')
+#2 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 13:10:58 America/Chicago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 13:10:58 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php:948
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/secure/access.php(948): SoapClient->SoapClient('http://www.mobi...')
+#1 /home1/mshwark/public_html/mshwark/tripinfo.php(66): access->sendSMS('0568808087', 'Your Request nu...')
+#2 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 13:28:58 America/Chicago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[17-Sep-2016 13:28:58 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php:948
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/secure/access.php(948): SoapClient->SoapClient('http://www.mobi...')
+#1 /home1/mshwark/public_html/mshwark/tripinfo.php(66): access->sendSMS('0568808087', 'Your Request nu...')
+#2 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[18-Sep-2016 11:45:28 America/Chicago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx"
+ in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[18-Sep-2016 11:45:28 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx"
+ in /home1/mshwark/public_html/mshwark/secure/access.php:948
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/secure/access.php(948): SoapClient->SoapClient('http://www.mobi...')
+#1 /home1/mshwark/public_html/mshwark/tripinfo.php(66): access->sendSMS('966542809800', 'Your Request nu...')
+#2 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 948
+[18-Sep-2016 11:51:17 America/Chicago] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php on line 949
+[18-Sep-2016 11:51:17 America/Chicago] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl' : failed to load external entity "http://www.mobilywebservices.com:86/SMSWebService/SMSIntegration.asmx?wsdl"
+ in /home1/mshwark/public_html/mshwark/secure/access.php:949
+Stack trace:
+#0 /home1/mshwark/public_html/mshwark/secure/access.php(949): SoapClient->SoapClient('http://www.mobi...')
+#1 /home1/mshwark/public_html/mshwark/tripinfo.php(67): access->sendSMS()
+#2 {main}
+  thrown in /home1/mshwark/public_html/mshwark/secure/access.php on line 949
+[20-Sep-2016 15:04:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'Content' (T_STRING) in /home1/mshwark/public_html/mshwark/tripinfo.php on line 87
+[20-Sep-2016 15:11:02 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home1/mshwark/public_html/mshwark/tripinfo.php on line 88
+[20-Sep-2016 15:13:58 America/Chicago] PHP Parse error:  syntax error, unexpected '"#E6E6FA"' (T_CONSTANT_ENCAPSED_STRING) in /home1/mshwark/public_html/mshwark/tripinfo.php on line 86
+[20-Sep-2016 15:27:22 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home1/mshwark/public_html/mshwark/tripinfo.php on line 86
+[20-Sep-2016 15:31:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/tripinfo.php on line 100
+[20-Sep-2016 15:44:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/tripinfo.php on line 111
+[20-Sep-2016 15:46:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home1/mshwark/public_html/mshwark/tripinfo.php on line 111
+[17-Oct-2016 12:41:03 America/Chicago] PHP Fatal error:  Call to undefined method access::tripInfoDriver() in /home1/mshwark/public_html/mshwark/tripinfo_driver.php on line 40
+[17-Oct-2016 20:19:37 America/Chicago] PHP Warning:  Missing argument 3 for access::savePriceByKilo(), called in /home1/mshwark/public_html/mshwark/savepricebykilo.php on line 86 and defined in /home1/mshwark/public_html/mshwark/secure/access.php on line 712
+[17-Oct-2016 20:19:37 America/Chicago] PHP Warning:  Missing argument 4 for access::savePriceByKilo(), called in /home1/mshwark/public_html/mshwark/savepricebykilo.php on line 86 and defined in /home1/mshwark/public_html/mshwark/secure/access.php on line 712
+[21-Oct-2016 15:14:19 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 949
+[21-Oct-2016 15:18:05 America/Chicago] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 953
+[21-Oct-2016 15:23:07 America/Chicago] PHP Fatal error:  Call to undefined function now() in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 949
+[21-Oct-2016 15:51:51 America/Chicago] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 956
+[21-Oct-2016 15:52:36 America/Chicago] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home1/mshwark/public_html/mshwark/secure/access_driver.php on line 956
+[26-Oct-2016 03:06:52 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:06:52 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:09:02 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:09:02 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:15:31 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:15:31 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:22:51 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:22:51 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:34:41 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:34:41 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:43:58 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:43:58 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:45:39 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:45:39 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:54:22 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:54:22 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:58:41 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[26-Oct-2016 03:58:41 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 539
+[29-Oct-2016 04:09:50 America/Chicago] PHP Fatal error:  Cannot redeclare access::cancelRequest() in /home1/mshwark/public_html/mshwark/secure/access.php on line 693
+[29-Oct-2016 04:10:44 America/Chicago] PHP Fatal error:  Cannot redeclare access::cancelRequest() in /home1/mshwark/public_html/mshwark/secure/access.php on line 693
+[29-Oct-2016 04:10:58 America/Chicago] PHP Fatal error:  Cannot redeclare access::cancelRequest() in /home1/mshwark/public_html/mshwark/secure/access.php on line 693
+[29-Oct-2016 04:11:28 America/Chicago] PHP Fatal error:  Cannot redeclare access::cancelRequest() in /home1/mshwark/public_html/mshwark/secure/access.php on line 693
+[29-Oct-2016 04:13:32 America/Chicago] PHP Fatal error:  Cannot redeclare access::cancelRequest() in /home1/mshwark/public_html/mshwark/secure/access.php on line 693
+[29-Oct-2016 04:15:51 America/Chicago] PHP Fatal error:  Cannot redeclare access::cancelRequest() in /home1/mshwark/public_html/mshwark/secure/access.php on line 693
+[29-Oct-2016 04:16:59 America/Chicago] PHP Fatal error:  Cannot redeclare access::cancelRequest() in /home1/mshwark/public_html/mshwark/secure/access.php on line 693
+[05-Nov-2016 07:07:35 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:07:35 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:08:35 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:08:35 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:12:38 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:12:38 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:12:47 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:12:47 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:14:09 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:14:09 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:14:09 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:14:09 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:15:52 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[05-Nov-2016 07:15:52 America/Chicago] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home1/mshwark/public_html/mshwark/secure/access.php on line 755
+[18-Mar-2017 13:59:05 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 13:59:07 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 13:59:07 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 13:59:08 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 13:59:10 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 13:59:15 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 13:59:15 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 13:59:16 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 13:59:16 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 13:59:53 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:00:05 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:00:08 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:00:09 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:00:12 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:00:25 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:00:39 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:00:48 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:01:06 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:03:23 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:04:25 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[18-Mar-2017 14:04:38 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:37:59 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:37:59 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:00 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:00 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:00 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:00 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:00 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:02 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:02 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:02 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:03 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:04 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:06 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:06 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:07 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:07 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:08 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:09 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:11 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:38:53 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Mar-2017 17:39:04 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
